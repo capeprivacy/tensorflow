@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 LABEL maintainer="Gunhan Gulsoy <gunan@google.com>"
 
