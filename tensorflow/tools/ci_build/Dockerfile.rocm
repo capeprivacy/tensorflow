@@ -1,6 +1,6 @@
 # This Dockerfile provides a starting point for a ROCm installation of 
 # MIOpen and tensorflow.  
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 MAINTAINER Jeff Poznanovic <jeffrey.poznanovic@amd.com>
 
 ARG DEB_ROCM_REPO=http://repo.radeon.com/rocm/apt/debian/
